@@ -1,6 +1,6 @@
 ---
 title: "RSCH 630 - Research Methods"
-subtitle: 'Final Exam'
+subtitle: 'Final Exam again'
 author: "Chris Schmidt"
 date: "Due `r format(as.POSIXct(594000, origin = '2016-06-01'), '%R %x')`"
 bibliography: "resources/bibliography.bib"
